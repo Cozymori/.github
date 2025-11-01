@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Community Discussions
+    url: https://github.com/orgs/RepublicOfGamja/discussions
+    about: Please ask and answer questions in our community discussions.
+  - name: 📚 Documentation
+    url: https://github.com/RepublicOfGamja/.github/wiki
+    about: Check our documentation for guides and references.
+  - name: ✉️ Email Support
+    url: mailto:luv.wlgjs@jj.ac.kr
+    about: Contact us directly for sensitive matters.
