@@ -29,6 +29,7 @@ Steps to reproduce the behavior:
 - **OS:** [e.g. Windows 11, macOS 13.0, Ubuntu 22.04]
 - **Browser:** [e.g. Chrome 119, Firefox 120, Safari 17]
 - **Version:** [e.g. 22]
+- **AI Model / LLM (if applicable):** [e.g. GPT-4, Claude 3, Llama 3]
 
 ### Mobile (if applicable):
 - **Device:** [e.g. iPhone 14, Samsung Galaxy S23]
