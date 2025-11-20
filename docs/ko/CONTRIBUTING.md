@@ -1,6 +1,6 @@
-# RepublicOfGamja 프로젝트 기여 가이드
+# Cozymori 프로젝트 기여 가이드
 
-RepublicOfGamja에 기여하는 것에 관심을 가져주셔서 감사합니다! 우리는 모든 사람의 기여를 환영합니다. 프로젝트에 참여함으로써 [행동 강령](../../CODE_OF_CONDUCT.md)을 준수하는 것에 동의하게 됩니다.
+Cozymori에 기여하는 것에 관심을 가져주셔서 감사합니다! 우리는 모든 사람의 기여를 환영합니다. 프로젝트에 참여함으로써 [행동 강령](../../CODE_OF_CONDUCT.md)을 준수하는 것에 동의하게 됩니다.
 
 ## 시작하기
 
@@ -22,7 +22,7 @@ RepublicOfGamja에 기여하는 것에 관심을 가져주셔서 감사합니다
 ```
 3. 원본 저장소를 upstream 원격으로 추가하세요:
 ```bash
-   git remote add upstream https://github.com/RepublicOfGamja/REPOSITORY-NAME.git
+   git remote add upstream https://github.com/Cozymori/REPOSITORY-NAME.git
 ```
 4. 작업을 위한 새 브랜치를 생성하세요:
 ```bash
@@ -52,6 +52,12 @@ RepublicOfGamja에 기여하는 것에 관심을 가져주셔서 감사합니다
 - 고려한 대안
 
 ### 코드 기여
+
+#### 🤖 AI 도구 사용 정책 (AI Tools Usage Policy)
+생산성 향상을 위해 AI 도구(GitHub Copilot, ChatGPT 등) 사용을 적극 권장합니다. 단, 다음 원칙을 준수해 주세요:
+- **검증 책임 (Verification):** AI가 생성한 코드는 반드시 본인이 이해하고 테스트해야 합니다.
+- **보안 (Security):** 비공개 키나 민감한 데이터가 프롬프트에 포함되지 않도록 주의하세요.
+- **코드 품질 (Clean Code):** AI가 생성한 불필요한 주석이나 잔여물은 커밋 전에 정리해 주세요.
 
 #### 코드 스타일
 
@@ -375,6 +381,6 @@ Update client code to handle new response structure.
 
 ## 라이선스
 
-RepublicOfGamja 프로젝트에 기여함으로써, 귀하의 기여가 프로젝트와 동일한 라이선스 하에 라이선스됨에 동의합니다.
+Cozymori 프로젝트에 기여함으로써, 귀하의 기여가 프로젝트와 동일한 라이선스 하에 라이선스됨에 동의합니다.
 
-RepublicOfGamja에 기여해주셔서 감사합니다! 🎉
+Cozymori에 기여해주셔서 감사합니다! 🎉
