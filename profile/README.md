@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RepublicOfGamja/.github/master/assets/icon.png" alt="RepublicOfGamja Icon" width="80" height="80" style="margin-bottom: 10px;" />
+  <img src="https://raw.githubusercontent.com/Cozymori/.github/master/assets/icon.png" alt="Cozymori Icon" width="80" height="80" style="margin-bottom: 10px;" />
 
-<h2>RepublicOfGamja</h2>
+<h2>Cozymori</h2>
 
 > ### **Simpler, Easier, For Developers.**
 
@@ -20,8 +20,8 @@ We welcome contributions from everyone and strive to maintain a harassment-free 
 | :--- | :--- |
 | **Start Contributing** | **[📝 Contributing Guide](CONTRIBUTING.md)** (Setup, Style, PR Process) |
 | **Report a Bug** | [🐛 Issue Tracker] (Use the `bug_report.md` template) |
-| **Ask Questions** | 💬 [GitHub Discussions](https://github.com/orgs/RepublicOfGamja/discussions) (Recommended for support) |
-| **View Docs** | [🌐 Organization Wiki](https://github.com/RepublicOfGamja/.github/wiki) |
+| **Ask Questions** | 💬 [GitHub Discussions](https://github.com/orgs/Cozymori/discussions) (Recommended for support) |
+| **View Docs** | [🌐 Organization Wiki](https://github.com/Cozymori/.github/wiki) |
 | **Security/Policy** | ✉️ Email: `luv.wlgjs@jj.ac.kr` |
 
 ### 📋 Standard
