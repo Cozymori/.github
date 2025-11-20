@@ -2,21 +2,21 @@
 
 ## 🤝 Getting Help
 
-Thank you for using RepublicOfGamja projects! We're here to help you get the most out of our software.
+Thank you for using Cozymori projects! We're here to help you get the most out of our software.
 
 ## 📚 Documentation
 
 Before seeking support, please check our documentation:
 
 - **Project README**: Each repository contains a detailed README with setup instructions
-- **Wiki**: [Organization Wiki](https://github.com/RepublicOfGamja/.github/wiki)
+- **Wiki**: [Organization Wiki](https://github.com/Cozymori/.github/wiki)
 - **API Documentation**: Available in each project's `/docs` folder
 
 ## ❓ How to Get Support
 
 ### 1. GitHub Discussions (Recommended)
 For general questions, ideas, and community support:
-- [Visit our Discussions](https://github.com/orgs/RepublicOfGamja/discussions)
+- [Visit our Discussions](https://github.com/orgs/Cozymori/discussions)
 - Search existing discussions before creating a new one
 - Choose the appropriate category for your topic
 
@@ -28,7 +28,7 @@ For bug reports and feature requests:
 
 ### 3. Community Chat
 Join our community for real-time help:
-- Discord: [Join our server](https://discord.gg/republicofgamja)
+- Discord: [Join our server](https://discord.gg/WfdcAj2z3N)
 - Response times may vary based on community availability
 
 ### 4. Email Support
@@ -89,7 +89,7 @@ See our [Contributing Guide](CONTRIBUTING.md) for more information.
 
 ### General Questions
 
-**Q: How do I get started with a RepublicOfGamja project?**
+**Q: How do I get started with a Cozymori project?**
 A: Check the project's README for quick start instructions and prerequisites.
 
 **Q: What license are your projects under?**
@@ -104,7 +104,7 @@ A: Refer to the project's license for commercial use permissions.
 A: Requirements vary by project. Check the documentation for specific requirements.
 
 **Q: How do I report a security vulnerability?**
-A: Please email security issues to support@republicofgamja.org with details.
+A: Please email security issues to luv.wlgjs@jj.ac.kr with details.
 
 ## 🌟 Community Resources
 
@@ -130,4 +130,4 @@ Note: We're a volunteer-driven organization. Response times may vary.
 
 ---
 
-Thank you for being part of the RepublicOfGamja community! 🥔
+Thank you for being part of the Cozymori community! 🤖
