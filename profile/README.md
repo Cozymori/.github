@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Cozymori/.github/master/assets/icon.png" alt="Cozymori Icon" width="80" height="80" style="margin-bottom: 10px;" />
+  <img src="https://raw.githubusercontent.com/Cozymori/.github/master/assets/icon.png" alt="Cozymori Icon" width="100" height="100" style="margin-bottom: 10px;" />
 
 <h2>Cozymori</h2>
 
